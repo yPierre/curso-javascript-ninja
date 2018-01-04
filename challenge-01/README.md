@@ -14,7 +14,7 @@ var soma = 15 + 8;  //soma == 23
 soma++; //soma == 24
 
 // Atribua à variável `soma` todo o valor dela, multiplicando por 3, usando o operador de multiplicação abreviado.
-soma *= 3;  /soma == 72
+soma *= 3;  //soma == 72
 
 // Qual é o valor da variável `soma` até aqui?
 //soma == 72
